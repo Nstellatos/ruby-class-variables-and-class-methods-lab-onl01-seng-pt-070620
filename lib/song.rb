@@ -17,7 +17,8 @@ def self.count
 def self.count
   @@artists << []
 end
-
+def self.count
+  @@genres << []
 
 
 
