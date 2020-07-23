@@ -14,7 +14,7 @@ end
 def self.count
     @@count
   end
-def self.artists_count
+def self.count
   @@artists << []
 end
 
